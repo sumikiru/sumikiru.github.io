@@ -3,11 +3,11 @@
   <title>SumikiruのBlog</title>
   
   <subtitle>寄美好于未来，收嫌心于现今</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sumikiru.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sumikiru.github.io/"/>
   <updated>2024-04-03T07:09:24.048Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sumikiru.github.io/</id>
   
   <author>
     <name>Sumikiru</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://sumikiru.github.io/posts/4a17b156.html"/>
+    <id>https://sumikiru.github.io/posts/4a17b156.html</id>
     <published>2022-10-29T09:33:08.355Z</published>
     <updated>2024-04-03T07:09:24.048Z</updated>
     
